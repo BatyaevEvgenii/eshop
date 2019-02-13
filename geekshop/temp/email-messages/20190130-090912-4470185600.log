@@ -1,0 +1,14 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?b?0J/QvtC00YLQstC10YDQttC10L3QuNC1INGD0YfQtdGC0L3QvtC5INC30LDQv9C4?=
+ =?utf-8?b?0YHQuCAxMjM0?=
+From: django@geekshop.local
+To: asa@asd.com
+Date: Wed, 30 Jan 2019 04:09:12 -0000
+Message-ID: <154882135248.2690.5900743198875843164@iMac-Marat.local>
+
+ДЛЯ подтвержения учетной записи 1234 на портале http://localhost:8000 перейдите по ссылке: 
+ http://localhost:8000/auth/verify/(asa@asd.com)/(6833d3b06a5da11b1b4d62e91202d5ad98616d35)/
+-------------------------------------------------------------------------------

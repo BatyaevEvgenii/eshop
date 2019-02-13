@@ -1,0 +1,14 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?b?0J/QvtC00YLQstC10YDQttC10L3QuNC1INGD0YfQtdGC0L3QvtC5INC30LDQv9C4?=
+ =?utf-8?b?0YHQuCB2YXN5YTI=?=
+From: django@geekshop.local
+To: asafs@askhjk.com
+Date: Sat, 02 Feb 2019 04:28:38 -0000
+Message-ID: <154908171891.10803.12589700002335127256@iMac-Marat.local>
+
+ДЛЯ подтвержения учетной записи vasya2 на портале http://localhost:8000 перейдите по ссылке: 
+ http://localhost:8000/auth/verify/(asafs@askhjk.com)/(11ac2c48adb038d2f6a62fe51154f854b56a5e62)/
+-------------------------------------------------------------------------------

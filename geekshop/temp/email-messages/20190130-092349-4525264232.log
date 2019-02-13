@@ -1,0 +1,14 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?b?0J/QvtC00YLQstC10YDQttC10L3QuNC1INGD0YfQtdGC0L3QvtC5INC30LDQv9C4?=
+ =?utf-8?b?0YHQuCB3ZXJ0?=
+From: django@geekshop.local
+To: asas@dd.com
+Date: Wed, 30 Jan 2019 04:23:50 -0000
+Message-ID: <154882223001.2865.8699005091527588686@iMac-Marat.local>
+
+ДЛЯ подтвержения учетной записи wert на портале http://localhost:8000 перейдите по ссылке: 
+ http://localhost:8000/auth/verify/(asas@dd.com)/(efe258b14175a06499631874ffddb5314fad7191)/
+-------------------------------------------------------------------------------

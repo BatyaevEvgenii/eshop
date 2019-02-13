@@ -1,0 +1,14 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?b?0J/QvtC00YLQstC10YDQttC10L3QuNC1INGD0YfQtdGC0L3QvtC5INC30LDQv9C4?=
+ =?utf-8?b?0YHQuCAyMjIy?=
+From: django@geekshop.local
+To: 222@ass.com
+Date: Tue, 29 Jan 2019 13:52:58 -0000
+Message-ID: <154876997842.2369.12746661001710352110@iMac-Marat.local>
+
+ДЛЯ подтвержения учетной записи 2222 на портале http://localhost:8000 перейдите по ссылке: 
+ http://localhost:8000/auth/verify/(222@ass.com)/(2443d1a9d8c7ce03feca26fcd73aba9f54cbbb58)/
+-------------------------------------------------------------------------------

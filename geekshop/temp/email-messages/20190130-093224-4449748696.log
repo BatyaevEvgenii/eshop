@@ -1,0 +1,14 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?b?0J/QvtC00YLQstC10YDQttC10L3QuNC1INGD0YfQtdGC0L3QvtC5INC30LDQv9C4?=
+ =?utf-8?b?0YHQuCB3ZXJ0dQ==?=
+From: django@geekshop.local
+To: wertu@local.local
+Date: Wed, 30 Jan 2019 04:32:24 -0000
+Message-ID: <154882274475.2909.17781204668879938289@iMac-Marat.local>
+
+ДЛЯ подтвержения учетной записи wertu на портале http://localhost:8000 перейдите по ссылке: 
+ http://localhost:8000/auth/verify/(wertu@local.local)/(71efb73e3ad0c7ecc13ca15a9c4db4369ad16c91)/
+-------------------------------------------------------------------------------
